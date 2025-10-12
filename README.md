@@ -2,6 +2,7 @@
 
 A portfolio of beginner-friendly sentiment analysis projects designed to uncover insights from customer feedback, product reviews, and social media data using **Python, SQL, and dashboard tools**.
 
+
 ## 📂 Projects Overview
 
 | Project | Description | Tools |
@@ -12,17 +13,20 @@ A portfolio of beginner-friendly sentiment analysis projects designed to uncover
 | **Unified Sentiment Dashboard** | Combine all data sources into one Power BI dashboard. | Power BI, SQL, ETL |
 
 
+
 ## 🧠 Key Skills Demonstrated
 - Python (Pandas, VADER, TextBlob, NLTK)
 - SQL (data cleaning, integration)
 - Dashboarding (Power BI, Tableau, Plotly Dash)
 - NLP pipeline creation & visualization
+
   
 
 ## 📊 Future Plans
 - Add transformer-based sentiment model (BERT)
 - Deploy dashboards to Streamlit or Heroku
 - Automate API-based data updates
+
 
 
 👩‍💻 **Author:** Mushrat Jahan Dola  
