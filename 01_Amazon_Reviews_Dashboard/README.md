@@ -1,1 +1,18 @@
+# Amazon Product Review Sentiment Dashboard
 
+### 🧭 Objective
+Analyze product reviews to understand customer sentiment and highlight improvement areas.
+
+### ⚙️ Tools
+Python • VADER • Pandas • Tableau / Power BI
+
+### 🧠 Steps
+1. Load and clean Amazon review data.
+2. Run sentiment analysis using VADER.
+3. Aggregate results by product category.
+4. Visualize key metrics in a dashboard.
+
+### 📊 Output
+- Sentiment ratio (positive/neutral/negative)
+- Top keywords by sentiment
+- Example dashboard preview
