@@ -6,10 +6,10 @@ A portfolio of beginner-friendly sentiment analysis projects designed to uncover
 
 **| Project | Description | Tools |**
 
-🧩 **Amazon Reviews Dashboard** | Analyze Amazon reviews and visualize sentiment trends. | Python (VADER), Tableau
-💬 **Customer Feedback Analyzer** | Extract insights from survey responses, store results in SQL, and build dashboards. | Python, SQL, Power BI
-📈 **Brand Sentiment Tracker** | Monitor real-time brand sentiment using Twitter API and Plotly Dash. | Python, Tweepy, Dash
-🏆 **Unified Sentiment Dashboard** | Combine all data sources into one Power BI dashboard. | Power BI, SQL, ETL
+🧩 **Amazon Reviews Dashboard** | Analyze Amazon reviews and visualize sentiment trends. | Python (VADER), Tableau |
+💬 **Customer Feedback Analyzer** | Extract insights from survey responses, store results in SQL, and build dashboards. | Python, SQL, Power BI |
+📈 **Brand Sentiment Tracker** | Monitor real-time brand sentiment using Twitter API and Plotly Dash. | Python, Tweepy, Dash |
+🏆 **Unified Sentiment Dashboard** | Combine all data sources into one Power BI dashboard. | Power BI, SQL, ETL |
 
 
 ## 🧠 Key Skills Demonstrated
