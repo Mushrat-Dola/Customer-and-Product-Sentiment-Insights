@@ -16,3 +16,5 @@ Python • VADER • Pandas • Power BI
 - Sentiment ratio (positive/neutral/negative)
 - Top keywords by sentiment
 - Example dashboard preview
+![Overview](images/overview.png)
+![Product Insights](images/Product Insights.png)
