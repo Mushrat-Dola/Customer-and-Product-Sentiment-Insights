@@ -4,7 +4,7 @@
 Analyze product reviews to understand customer sentiment and highlight improvement areas.
 
 ### ⚙️ Tools
-Python • VADER • Pandas • Tableau / Power BI
+Python • VADER • Pandas • Power BI
 
 ### 🧠 Steps
 1. Load and clean Amazon review data.
