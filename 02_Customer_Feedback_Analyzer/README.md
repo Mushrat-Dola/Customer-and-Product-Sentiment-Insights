@@ -19,7 +19,7 @@ Python (Pandas, NLTK, AFINN, DistilBERT) • SQL (SQLite) • Power BI
 - Negative feedback was highest on weekends.
 
 ### 📈 Dashboard Preview
-
+https://github.com/Mushrat-Dola/Customer-and-Product-Sentiment-Insights/blob/main/02_Customer_Feedback_Analyzer/Overview.png
 
 ### 🪄 Next Steps
 - Integrate emotion detection (joy, anger, sadness).  
