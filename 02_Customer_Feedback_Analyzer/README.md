@@ -20,7 +20,8 @@ Python (Pandas, NLTK, AFINN, DistilBERT) • SQL (SQLite) • Power BI
 
 ### 📈 Dashboard Preview
 
-[Overview](https://github.com/Mushrat-Dola/Customer-and-Product-Sentiment-Insights/blob/main/02_Customer_Feedback_Analyzer/Overview.png)
+- [Overview](https://github.com/Mushrat-Dola/Customer-and-Product-Sentiment-Insights/blob/main/02_Customer_Feedback_Analyzer/Overview.png)
+- [Customer Dissatisfaction Analysis](https://github.com/Mushrat-Dola/Customer-and-Product-Sentiment-Insights/blob/main/02_Customer_Feedback_Analyzer/Customer%20Dissatisfaction%20Analysis.png)
 
 ### 🪄 Next Steps
 - Integrate emotion detection (joy, anger, sadness).  
